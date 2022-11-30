@@ -16,7 +16,7 @@ package io.openliberty.guides.system;
 import jakarta.ws.rs.core.Application;
 import jakarta.ws.rs.ApplicationPath;
 
-@ApplicationPath("system")
+//@ApplicationPath("system")
 public class SystemApplication extends Application {
 
 }
